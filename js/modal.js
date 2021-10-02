@@ -1,11 +1,8 @@
-let modal = document.querySelector('.modal-container');
 
 function element() {
+    let modal = document.querySelector('.modal-container');
  
     modal.style.display = 'flex';
 }
 
 
-function close() {
-    console.log(1);
-}
